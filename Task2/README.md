@@ -12,7 +12,7 @@
 - 编程实现一组数据集合的全排列  
 ### 【对应的 LeetCode 练习题】  
 栈  
-Valid Parentheses（有效的括号） 
+Valid Parentheses（有效的括号）  
 英文版：https://leetcode.com/problems/valid-parentheses/  
 中文版：https://leetcode-cn.com/problems/valid-parentheses/  
 Longest Valid Parentheses（最长有效的括号）  
