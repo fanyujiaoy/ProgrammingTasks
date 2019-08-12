@@ -61,4 +61,4 @@ if __name__== '__main__':
     for i in range(1, 20):
         print(trs.fibonacciseq(i))
 
-    print(trs.factorial(4))
+    print(trs.factorial(5))
